@@ -1,5 +1,5 @@
 func c() {
-    print("I made func C")
+    print("make sth new for func c")
 }
 
 c()
